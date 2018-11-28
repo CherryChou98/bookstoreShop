@@ -1,8 +1,5 @@
 package dao;
 
-import pojo.User;
-
-import java.sql.*;
 import java.util.ArrayList;
 
 /**
